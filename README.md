@@ -12,7 +12,7 @@ This implementation of segmentation in RGB vector space is based from **Section 
 ## How to run?
 * Install the dependencies using ``` pip install -r requirements.txt ``` command.
 * Run the python file ```segment.py```.
-* A box will be opened, upload the image and then write the threshold value required.
+* A box will be opened, upload the image and then enter the threshold value required.
 * Mark your region of Interest in the image and you'll get the segmented image. 
 
 
