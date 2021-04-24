@@ -3,11 +3,11 @@ A PyQt5 based python GUI which can segment an image using Euclidean Distance met
 
 This implementation of segmentation in RGB vector space is based from **Section 6.7.2** of **Chapter 6** of the book **Digital Image Processing**, by *Rafael C. Gonzales* and *Richard E. Woods*. (ISBN number: 9780070702622)
 
-## Python Library Required
-* PyQt5- for GUI window
-* cv2- to read the image
-* numpy- for image calculations
-* matplotlib- to plot the image
+## Python Libraries Required
+* PyQt5- for GUI purposes.
+* cv2- to read image.
+* numpy- for  calculations purposes
+* matplotlib- to plot the images.
 
 ## How to run?
 * Install the dependencies using ``` pip install -r requirements.txt ``` command.
